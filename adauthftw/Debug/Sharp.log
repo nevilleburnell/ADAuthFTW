@@ -1,0 +1,34 @@
+﻿Build started 12/14/2011 12:35:33 AM.
+     1>Project "D:\Git\node.net\Sharp\Sharp.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\tsqlftw.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt tsqlftwHelper.cpp /clr:nostdlib 
+         tsqlftwHelper.cpp
+     1>D:\node-v0.6.5\src\node_object_wrap.h(57): warning C4251: 'node::ObjectWrap::handle_' : class 'v8::Persistent<T>' needs to have dll-interface to be used by clients of class 'node::ObjectWrap'
+                 with
+                 [
+                     T=v8::Object
+                 ]
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\Power\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\node.net\Debug\tsqlftw.node" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\tsqlftw.node.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Git\node.net\Debug\tsqlftw.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /DLL Debug\tsqlftw.obj
+         Debug\tsqlftwHelper.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Creating library D:\Git\node.net\Debug\tsqlftw.lib and object D:\Git\node.net\Debug\tsqlftw.exp
+     1>tsqlftwHelper.obj : warning LNK4248: unresolved typeref token (01000013) for 'v8.internal.Object'; image may not run
+         Sharp.vcxproj -> D:\Git\node.net\Debug\tsqlftw.node
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Git\node.net\Debug\tsqlftw.node;#2" /manifest Debug\tsqlftw.node.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\tsqlftw.unsuccessfulbuild".
+         Touching "Debug\tsqlftw.lastbuildstate".
+     1>Done Building Project "D:\Git\node.net\Sharp\Sharp.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.45

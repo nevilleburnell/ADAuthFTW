@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\adauthftw\adauthftw\adauthftwHelper.cpp</string>
+      <string>C:\git\adauthftw\adauthftw\adauthftwHelper.h</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\adauthftw\adauthftwLib\adauthftwClass.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\git\adauthftw\adauthftw\adauthftw.cpp</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

@@ -1,0 +1,5 @@
+C:\git\adauthftw\adauthftwLib\bin\Debug\adauthftwLib.dll
+C:\git\adauthftw\adauthftwLib\bin\Debug\adauthftwLib.pdb
+C:\git\adauthftw\adauthftwLib\obj\Debug\ResolveAssemblyReference.cache
+C:\git\adauthftw\adauthftwLib\obj\Debug\adauthftwLib.dll
+C:\git\adauthftw\adauthftwLib\obj\Debug\adauthftwLib.pdb

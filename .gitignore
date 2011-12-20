@@ -1,0 +1,8 @@
+*.sdf
+*.opensdf
+*.suo
+_ReSharper.*
+*.ReSharper.user
+*.resharper.user
+*.unsuccessfulbuild
+*.ipch

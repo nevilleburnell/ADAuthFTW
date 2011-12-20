@@ -1,0 +1,17 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly tsqlftwLib, Version=1.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly Newtonsoft.Json, Version=4.0.4.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed: 
+	hash=None, flags=None
+Class tsqlftw.tsqlftwClass: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Data.SqlClient.SqlConnection Conn : Public
+  Methods:
+    Connect(String): PrivateScope, Public, HideBySig
+    Query(String): PrivateScope, Public, HideBySig
+    Close(): PrivateScope, Public, HideBySig

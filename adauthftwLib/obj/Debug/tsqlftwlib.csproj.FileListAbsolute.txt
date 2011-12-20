@@ -1,0 +1,13 @@
+D:\Git\node.net\SharpLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Git\node.net\SharpLib\bin\Debug\tsqlftwLib.dll
+D:\Git\node.net\SharpLib\bin\Debug\tsqlftwLib.pdb
+D:\Git\node.net\SharpLib\obj\Debug\tsqlftwLib.dll
+D:\Git\node.net\SharpLib\obj\Debug\tsqlftwLib.pdb
+C:\git\node.net\tsqlftwLib\bin\Debug\tsqlftwLib.dll
+C:\git\node.net\tsqlftwLib\bin\Debug\tsqlftwLib.pdb
+C:\git\node.net\tsqlftwLib\obj\Debug\ResolveAssemblyReference.cache
+C:\git\node.net\tsqlftwLib\obj\Debug\tsqlftwLib.dll
+C:\git\node.net\tsqlftwLib\obj\Debug\tsqlftwLib.pdb
+C:\git\node.net\tsqlftwLib\bin\Debug\Newtonsoft.Json.dll
+C:\git\node.net\tsqlftwLib\bin\Debug\Newtonsoft.Json.pdb
+C:\git\node.net\tsqlftwLib\bin\Debug\Newtonsoft.Json.xml
